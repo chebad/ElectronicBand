@@ -14,15 +14,21 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Teoria"/>
+            android:text="Teoria"
+            android:drawableStart="@mipmap/ic_launcher"
+            android:textAlignment="textStart"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Kalkulatory"/>
+            android:text="Kalkulatory"
+            android:drawableStart="@mipmap/ic_launcher"
+            android:textAlignment="textStart"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Opisy"/>
+            android:text="OK!"
+            android:drawableStart="@mipmap/ic_launcher"
+            android:textAlignment="textStart"/>
 
     </LinearLayout>
 
